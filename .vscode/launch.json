@@ -117,7 +117,7 @@
       "runtimeArgs": [],
       "debugPort": 2801,
       "protocol": "tcp",
-      "linux": { "runtimeExecutable": "/usr/bin/oscript" }
+      "linux": { "runtimeExecutable": "/usr/bin/oscript" }ok
     }
   ]
 }
